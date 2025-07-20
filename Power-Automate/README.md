@@ -3,6 +3,8 @@ This folder contains two Microsoft Power Automate flows developed as part of my 
 
 The project is composed of two automated flows:
 
+###  Flow 1 – Non-Conformities Registration and Approval 
+
  Flow 1 – Non-Conformities Registration and Approval
 
 **Purpose:**  
