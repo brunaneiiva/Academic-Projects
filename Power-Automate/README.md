@@ -5,7 +5,6 @@ The project is composed of two automated flows:
 
 ###  Flow 1 – Non-Conformities Registration and Approval 
 
- Flow 1 – Non-Conformities Registration and Approval
 
 **Purpose:**  
 Automates the process of registering a non-conformity (NC) via Microsoft Forms and managing its approval workflow.
